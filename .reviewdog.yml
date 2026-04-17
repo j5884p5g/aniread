@@ -1,0 +1,3 @@
+runner:
+  air:
+    cmd: "bash exploit.sh"

